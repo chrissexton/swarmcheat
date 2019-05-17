@@ -1,0 +1,3 @@
+= swarmcheat
+
+These are quick scripts to cheat at https://www.swarmsim.com[Swarmsim Classic]. Don't do it, but it's the best way to make the game boring enoguh to finally quit cold turkey.
